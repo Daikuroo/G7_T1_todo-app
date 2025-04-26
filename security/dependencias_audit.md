@@ -1,7 +1,19 @@
 # Resultados de escaneos de dependencias
 Se ha usado yarn audit para escanear el backend y frontend
 
-# Backend
+# Resumen Backend
+
+56 vulnerabilities found - Packages audited: 522
+Severity: 6 Low | 26 Moderate | 22 High | 2 Critical
+Done in 0.99s.
+# Resumen Frontend
+
+17 vulnerabilities found - Packages audited: 347
+Severity: 14 Moderate | 3 High
+Done in 1.25s.
+
+# Resultados Backend
+```markdown
 yarn audit v1.22.22
 warning package.json: No license field
 warning backend@1.0.0: No license field
@@ -803,9 +815,9 @@ warning backend@1.0.0: No license field
 56 vulnerabilities found - Packages audited: 522
 Severity: 6 Low | 26 Moderate | 22 High | 2 Critical
 Done in 0.99s.
-
-
-# Frontend
+```
+# Resultados Frontend
+```markdown
 
 yarn audit v1.22.22
 ┌───────────────┬──────────────────────────────────────────────────────────────┐
@@ -1045,3 +1057,4 @@ yarn audit v1.22.22
 17 vulnerabilities found - Packages audited: 347
 Severity: 14 Moderate | 3 High
 Done in 1.25s.
+
