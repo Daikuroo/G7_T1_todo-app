@@ -44,3 +44,6 @@ docker compose down
 ///
 Si has usado el primer comando en el apartado 2 es posible que sea necesario
 Crtl^C para poder escribir el comando
+
+# Más información
+Para información más detalladas se puede acceder a /docs o a /security.
