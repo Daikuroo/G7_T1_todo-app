@@ -7,7 +7,7 @@ Este proyecto contiene una aplicación web de tareas con frontend y backend sepa
 
 ---
 
-## 🚀 Requisitos
+## Requisitos
 
 - Docker Desktop instalado y corriendo en tu máquina (Windows, macOS o Linux)
 - Git instalado para clonar el repositorio
